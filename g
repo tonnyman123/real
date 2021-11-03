@@ -6,8 +6,8 @@ game.Players.LocalPlayer:kick("Invalid Key , Join Discord For Key ( COPIED TO CL
                 local reqbody = {
                     ["nonce"] = game:GetService("HttpService"):GenerateGUID(false),
                     ["args"] = {
-                        ["invite"] = {["code"] = "qsJzHe533t"},
-                        ["code"] = "qsJzHe533t",
+                        ["invite"] = {["code"] = "wfyHYS8E2n"},
+                        ["code"] = "wfyHYS8E2n",
                     },
                     ["cmd"] = "INVITE_BROWSER"
                 }
