@@ -1,4 +1,4 @@
-game.Players.LocalPlayer:kick("Invalid Key , Join Discord For Key ( COPIED TO CLIPBOARD ) https://discord.gg/62nBZKZyPa ")
+game.Players.LocalPlayer:kick("Invalid Key , Join Discord For Key ( COPIED TO CLIPBOARD ) https://discord.gg/wfyHYS8E2n ")
        wait(1)
     spawn(function()
         for i = 1, 14 do
@@ -6,8 +6,8 @@ game.Players.LocalPlayer:kick("Invalid Key , Join Discord For Key ( COPIED TO CL
                 local reqbody = {
                     ["nonce"] = game:GetService("HttpService"):GenerateGUID(false),
                     ["args"] = {
-                        ["invite"] = {["code"] = "62nBZKZyPa"},
-                        ["code"] = "62nBZKZyPa",
+                        ["invite"] = {["code"] = "wfyHYS8E2n"},
+                        ["code"] = "wfyHYS8E2n",
                     },
                     ["cmd"] = "INVITE_BROWSER"
                 }
